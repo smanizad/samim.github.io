@@ -1,5 +1,7 @@
 <div align="center">
-  <h1 align="center">Virtual Robotics Merit Badge 2020</h1>
+  <h1 align="center">Robotics</h1>
+  <h1 align="center">Virtual Merit Badge</h1>
+  <h1 align="center">2020</h1>
   <img align="center" src="https://coolmaterial.com/wp-content/uploads/2019/09/MegaBots-16ft-Tall-Eagle-Prime-Battle-Robot-Is-for-Sale.jpg" alt="Eagle Prime">
 </div>
 
