@@ -1,6 +1,6 @@
 layout: page
 title: "Robotics Merit Badge 2020"
-permalink: https://smanizad.github.io/robotics-merit-badge-2020
+permalink: /robotics-merit-badge-2020/
 ## Materials
 
 ### Slides from the Lectures addressing the different requirements
