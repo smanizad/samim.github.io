@@ -23,5 +23,4 @@
 ```
 
 ## Questions?
-```markdown
 s.manizade1@gmail.com
